@@ -1,0 +1,13 @@
+"""print("How old are you?", end='')
+age = input('18')
+print("How tall are you?", end='')
+height = input('175')
+print("How much do you weight?", end='')
+weight = input('64')
+print(f"So,you're {age} old, {height} tall and {weight} heavy.")
+"""
+#y = input ("Name?")
+age = input ("How old are you?")
+height = input("How tall are you?")
+weight = input("How much do you weight?")
+print(f"So,you're {age} old, {height} tall {weight} heavy.")
